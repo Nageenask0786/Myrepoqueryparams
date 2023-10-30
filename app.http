@@ -4,7 +4,6 @@ GET http://localhost:3000/todos/?search_q=%20&priority=HIGH&status=%20&todo=%20/
 GET http://localhost:3000/todos/3/
 ###
 POST http://localhost:3000/todos/
-###
 
 content-type : application/json
   {
